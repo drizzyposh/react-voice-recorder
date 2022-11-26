@@ -1,1 +1,1 @@
-Voice recording app built with React.js and VMSG library 
+A sound recording app built with React.js and VMSG library 
